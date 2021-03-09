@@ -1,0 +1,87 @@
+Exception Code : E0434352 
+Crash Address:  767E46D2 01:001136D2 C:\WINDOWS\System32\KERNELBASE.dll
+
+CPU:
+EAX:00CFEEB0
+EBX:00000005
+ECX:00000005
+EDX:00000000
+ESI:00CFEF70
+EDI:00000001
+CS:EIP:0023:767E46D2
+SS:ESP:002B:00CFEEB0  EBP:00CFEF08
+DS:002B  ES:002B  FS:0053  GS:002B
+Flags:00000212
+
+PDB Search Path:.;C:\Users\admin\source\repos\miner\miner\bin\Debug\
+
+Call Stack:
+Address   Frame     Function            SourceFile
+767E46D2  00CFEF08  FrmAddr Failed:870001:001136D2 C:\WINDOWS\System32\KERNELBASE.dll
+71F228F1  00CFEFA4  FrmAddr Failed:870001:001018F1 C:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll
+71F23796  00CFF06C  FrmAddr Failed:870001:00102796 C:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll
+6F2878EB  00CFF0B0  FrmAddr Failed:870002:000198EB C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System\b7284e08d0391cf6ee2db0487c643b5f\System.ni.dll
+6F28A38F  00CFF0C4  FrmAddr Failed:870002:0001C38F C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System\b7284e08d0391cf6ee2db0487c643b5f\System.ni.dll
+012D1A5D  00CFF0F0  FrmAddr Failed:870000:00000000 
+012D0E85  00CFF178  FrmAddr Failed:870000:00000000 
+71E2F036  00CFF184  FrmAddr Failed:870001:0000E036 C:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll
+71E322DA  00CFF1D8  FrmAddr Failed:870001:000112DA C:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll
+71E3859B  00CFF24C  FrmAddr Failed:870001:0001759B C:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll
+71FDB11B  00CFF370  FrmAddr Failed:870001:001BA11B C:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll
+71FDB7FA  00CFF5DC  FrmAddr Failed:870001:001BA7FA C:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll
+71FDB727  00CFFAC0  FrmAddr Failed:870001:001BA727 C:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll
+71FDB8A8  00CFFB18  FrmAddr Failed:870001:001BA8A8 C:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll
+71FDB9CE  00CFFB58  FrmAddr Failed:870001:001BA9CE C:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll
+71FD7305  00CFFB94  FrmAddr Failed:870001:001B6305 C:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll
+72F7FA84  00CFFBCC  FrmAddr Failed:870001:0000EA84 C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscoreei.dll
+7300E80E  00CFFBDC  FrmAddr Failed:870001:0000D80E C:\WINDOWS\SYSTEM32\MSCOREE.DLL
+73014338  00CFFBF4  FrmAddr Failed:870001:00013338 C:\WINDOWS\SYSTEM32\MSCOREE.DLL
+771F8944  00CFFC50  FrmAddr Failed:870001:00067944 C:\WINDOWS\SYSTEM32\ntdll.dll
+771F8914  00CFFC60  FrmAddr Failed:870001:00067914 C:\WINDOWS\SYSTEM32\ntdll.dll
+Stack Param Info:
+
+Call Stack:
+Address   Frame     Function            SourceFile
+767E46D2  00CFEF08  FrmAddr Failed:870001:001136D2 C:\WINDOWS\System32\KERNELBASE.dll
+
+71F228F1  00CFEFA4  FrmAddr Failed:870001:001018F1 C:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll
+
+71F23796  00CFF06C  FrmAddr Failed:870001:00102796 C:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll
+
+6F2878EB  00CFF0B0  FrmAddr Failed:870002:000198EB C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System\b7284e08d0391cf6ee2db0487c643b5f\System.ni.dll
+
+6F28A38F  00CFF0C4  FrmAddr Failed:870002:0001C38F C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System\b7284e08d0391cf6ee2db0487c643b5f\System.ni.dll
+
+012D1A5D  00CFF0F0  FrmAddr Failed:870000:00000000 
+
+012D0E85  00CFF178  FrmAddr Failed:870000:00000000 
+
+71E2F036  00CFF184  FrmAddr Failed:870001:0000E036 C:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll
+
+71E322DA  00CFF1D8  FrmAddr Failed:870001:000112DA C:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll
+
+71E3859B  00CFF24C  FrmAddr Failed:870001:0001759B C:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll
+
+71FDB11B  00CFF370  FrmAddr Failed:870001:001BA11B C:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll
+
+71FDB7FA  00CFF5DC  FrmAddr Failed:870001:001BA7FA C:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll
+
+71FDB727  00CFFAC0  FrmAddr Failed:870001:001BA727 C:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll
+
+71FDB8A8  00CFFB18  FrmAddr Failed:870001:001BA8A8 C:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll
+
+71FDB9CE  00CFFB58  FrmAddr Failed:870001:001BA9CE C:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll
+
+71FD7305  00CFFB94  FrmAddr Failed:870001:001B6305 C:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll
+
+72F7FA84  00CFFBCC  FrmAddr Failed:870001:0000EA84 C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscoreei.dll
+
+7300E80E  00CFFBDC  FrmAddr Failed:870001:0000D80E C:\WINDOWS\SYSTEM32\MSCOREE.DLL
+
+73014338  00CFFBF4  FrmAddr Failed:870001:00013338 C:\WINDOWS\SYSTEM32\MSCOREE.DLL
+
+771F8944  00CFFC50  FrmAddr Failed:870001:00067944 C:\WINDOWS\SYSTEM32\ntdll.dll
+
+771F8914  00CFFC60  FrmAddr Failed:870001:00067914 C:\WINDOWS\SYSTEM32\ntdll.dll
+
+

@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\miner\miner\bin\Debug\miner.exe.config
+C:\Users\admin\source\repos\miner\miner\bin\Debug\miner.exe
+C:\Users\admin\source\repos\miner\miner\bin\Debug\miner.pdb
+C:\Users\admin\source\repos\miner\miner\bin\Debug\Gma.System.MouseKeyHook.dll
+C:\Users\admin\source\repos\miner\miner\obj\Debug\miner.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\miner\miner\obj\Debug\miner.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\miner\miner\obj\Debug\miner.csproj.CopyComplete
+C:\Users\admin\source\repos\miner\miner\obj\Debug\miner.exe
+C:\Users\admin\source\repos\miner\miner\obj\Debug\miner.pdb
+C:\Users\admin\source\repos\miner\miner\bin\Debug\ThrottleDebounce.dll
+C:\Users\admin\source\repos\miner\miner\obj\Debug\miner.Properties.Resources.resources
+C:\Users\admin\source\repos\miner\miner\obj\Debug\miner.csproj.GenerateResource.cache

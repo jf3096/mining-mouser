@@ -1,0 +1,2 @@
+instsrv minecraft remove
+pause

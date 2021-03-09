@@ -1,0 +1,1 @@
+nbminer -a ethash -o stratum+tcp://ethash.poolbinance.com:1800 -u 0x829FA67A45Dba12B4c016C8d2F7323020D091494.default -log

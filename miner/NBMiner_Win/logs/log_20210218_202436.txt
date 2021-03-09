@@ -1,0 +1,39 @@
+[20:24:36] INFO - ----------------------------------------------
+[20:24:36] INFO - |                                            |
+[20:24:36] INFO - |                                            |
+[20:24:36] INFO - |                                            |
+[20:24:36] INFO - |                                            |
+[20:24:36] INFO - |                                            |
+[20:24:36] INFO - |                                            |
+[20:24:36] INFO - |                                            |
+[20:24:36] INFO - |         NBMiner - Crypto GPU Miner         |
+[20:24:36] INFO - |                    36.1                    |
+[20:24:36] INFO - |                                            |
+[20:24:36] INFO - ----------------------------------------------
+[20:24:36] INFO - ------------------- System -------------------
+[20:24:36] INFO - OS:     Windows 10 Version 1909, 10.0.18363
+[20:24:36] INFO - CPU:    Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+[20:24:36] INFO - RAM:    5441 MB / 32652 MB
+[20:24:36] INFO - VMEM:   33377 MB / 70540 MB
+[20:24:36] INFO - CU_DRV: 10.1, 425.25
+[20:24:36] INFO - ------------------- Config -------------------
+[20:24:36] INFO - ALGO:   ethash
+[20:24:36] INFO - URL:    stratum+tcp://eth1.xnpool.cn:8008
+[20:24:36] INFO - USER:   0x829FA67A45Dba12B4c016C8d2F7323020D091494.default
+[20:24:36] INFO - TEMP:   90C
+[20:24:36] INFO - ------------------- Device -------------------
+[20:24:36] INFO -  |ID|PCI|  CC|Memory|CU|
+[20:24:36] INFO - *| 0|  1|  61| 4096M| 6| GeForce GTX 1050 Ti
+[20:24:36] INFO - ----------------------------------------------
+[20:24:37] INFO - ethash - Logging in to eth1.xnpool.cn:8008 ...
+[20:24:37] INFO - ethash - Login succeeded.
+[20:24:37] INFO - ethash - New job: eth1.xnpool.cn:8008, ID: ae287792, HEIGHT: 2100604, DIFF: 34.36G
+[20:24:37] INFO - API:  0.0.0.0:22333
+[20:24:37] INFO - API server started.
+[20:24:38] INFO - ethash - New job: eth1.xnpool.cn:8008, ID: 2a54d904, HEIGHT: 2100604, DIFF: 34.36G
+[20:24:39] INFO - Device 0 started, Free mem = 3376 MB.
+[20:24:42] INFO - Light cache built, 2.84 s.
+[20:24:43] INFO - ethash - New job: eth1.xnpool.cn:8008, ID: 32327e6c, HEIGHT: 2100604, DIFF: 34.36G
+[20:24:44] INFO - Device 0: DAG - Building, EPOCH 396
+[20:24:44] ERROR - CUDA Error: out of memory (err_no=2)
+[20:24:44] ERROR - Device 0 exception, exit ...
